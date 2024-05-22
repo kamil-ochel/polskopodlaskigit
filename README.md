@@ -54,6 +54,8 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	dobaryka = stash
 	dochlewka = stash
 	cosiestalosie = status
+        szynybylyzle = blame
+        podwozietezbylozle = blame -e
 ```
 
 ![](assets/terminal.gif)
